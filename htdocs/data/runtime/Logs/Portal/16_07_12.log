@@ -1,0 +1,6 @@
+[ 2016-07-12T11:33:45+08:00 ] ::1 /index.php?g=&m=article&a=do_like&id=6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000877s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002488s ]
+

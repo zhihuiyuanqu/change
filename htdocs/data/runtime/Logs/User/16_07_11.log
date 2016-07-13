@@ -1,0 +1,84 @@
+[ 2016-07-11T10:48:46+08:00 ] ::1 /index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001386s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002128s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004557s ]
+NOTIC: [8] Undefined index: url D:\xampp\htdocs\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-11T15:29:04+08:00 ] ::1 /index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000660s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001005s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002329s ]
+NOTIC: [8] Undefined index: url D:\xampp\htdocs\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-11T16:23:18+08:00 ] ::1 /index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001266s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003292s ]
+NOTIC: [8] Undefined index: url D:\xampp\htdocs\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-11T16:23:21+08:00 ] ::1 /index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000893s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002125s ]
+NOTIC: [8] Undefined index: url D:\xampp\htdocs\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-11T16:23:23+08:00 ] ::1 /index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001139s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001139s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003266s ]
+NOTIC: [8] Undefined index: url D:\xampp\htdocs\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-11T16:23:29+08:00 ] ::1 /index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001251s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002091s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004502s ]
+NOTIC: [8] Undefined index: url D:\xampp\htdocs\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-11T16:46:05+08:00 ] ::1 /index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000652s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002777s ]
+NOTIC: [8] Undefined index: url D:\xampp\htdocs\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-11T17:50:41+08:00 ] ::1 /index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001085s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003389s ]
+NOTIC: [8] Undefined index: url D:\xampp\htdocs\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-11T17:50:50+08:00 ] ::1 /index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001755s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005045s ]
+NOTIC: [8] Undefined index: url D:\xampp\htdocs\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-11T17:50:52+08:00 ] ::1 /index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001043s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002929s ]
+NOTIC: [8] Undefined index: url D:\xampp\htdocs\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-11T17:50:55+08:00 ] ::1 /index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000764s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001115s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002597s ]
+NOTIC: [8] Undefined index: url D:\xampp\htdocs\application\Common\Controller\AppframeController.class.php 第 24 行.
+
+[ 2016-07-11T19:31:47+08:00 ] ::1 /index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001349s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001960s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004309s ]
+NOTIC: [8] Undefined index: url D:\xampp\htdocs\application\Common\Controller\AppframeController.class.php 第 24 行.
+
